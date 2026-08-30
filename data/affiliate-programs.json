@@ -1,0 +1,32 @@
+[
+  {
+    "id":"navimow",
+    "brand":"Segway Navimow",
+    "status":"application_required",
+    "network":"ShareASale",
+    "commission":null,
+    "cookie_days":90,
+    "program_url":"https://navimow.segway.com/pages/affiliate-program",
+    "notes":"Official Europe affiliate page confirms ShareASale, monthly payouts and a 90-day cookie. Current commission rate is not stated on the public page and must be confirmed after approval."
+  },
+  {
+    "id":"anthbot",
+    "brand":"ANTHBOT",
+    "status":"application_required",
+    "network":"Impact",
+    "commission":"10%+",
+    "cookie_days":30,
+    "program_url":"https://de.anthbot.com/pages/affiliate",
+    "notes":"Official German affiliate page states at least 10% commission, 30-day cookie and payout 60 days after order confirmation."
+  },
+  {
+    "id":"mammotion",
+    "brand":"Mammotion",
+    "status":"application_required",
+    "network":"Impact",
+    "commission":"3%+",
+    "cookie_days":null,
+    "program_url":"https://de.mammotion.com/pages/affiliate",
+    "notes":"Official German affiliate page states 3%+ CPA and an average order value above $1,500. Exact cookie duration and approved rates must be confirmed in Impact."
+  }
+]
