@@ -1,0 +1,21 @@
+name: Validate commerce data
+on:
+  push:
+    paths:
+      - 'data/products.json'
+      - 'data/offers.json'
+      - 'data/offer-history.json'
+      - 'scripts/validate-commerce.mjs'
+  schedule:
+    - cron: '17 5 * * *'
+  workflow_dispatch:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+      - name: Validate offer integrity and freshness
+        run: node scripts/validate-commerce.mjs
