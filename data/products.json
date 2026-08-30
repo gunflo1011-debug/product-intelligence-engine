@@ -1,62 +1,27 @@
 [
   {
-    "id": "navimow-i105e",
-    "brand": "Segway Navimow",
-    "model": "i105E",
-    "category": "robot-mower",
-    "max_area_m2": 600,
-    "max_slope_pct": 30,
-    "wire_free": true,
-    "multi_zone": true,
-    "navigation": "RTK + Vision",
-    "price_eur": null,
-    "source": "manufacturer",
-    "source_label": "manufacturer seed data — revalidation required before commercial launch",
-    "verified_at": "2026-08-30"
+    "id":"navimow-i105e","brand":"Segway Navimow","model":"i105E","category":"robot-mower",
+    "max_area_m2":600,"recommended_area_m2":500,"max_slope_pct":30,"wire_free":true,"multi_zone":true,
+    "navigation":"EFLS 2.0 (RTK/GNSS + Visual SLAM)","obstacle_detection":"VisionFence camera",
+    "source_url":"https://navimow.segway.com/products/navimow-i105","source_label":"Official Segway Navimow product page","verified_at":"2026-08-30","verification_status":"official-source-verified"
   },
   {
-    "id": "navimow-i108e",
-    "brand": "Segway Navimow",
-    "model": "i108E",
-    "category": "robot-mower",
-    "max_area_m2": 800,
-    "max_slope_pct": 30,
-    "wire_free": true,
-    "multi_zone": true,
-    "navigation": "RTK + Vision",
-    "price_eur": null,
-    "source": "manufacturer",
-    "source_label": "manufacturer seed data — revalidation required before commercial launch",
-    "verified_at": "2026-08-30"
+    "id":"navimow-i108e","brand":"Segway Navimow","model":"i108E","category":"robot-mower",
+    "max_area_m2":960,"recommended_area_m2":800,"max_slope_pct":30,"wire_free":true,"multi_zone":true,
+    "navigation":"EFLS 2.0 (RTK/GNSS + Visual SLAM)","obstacle_detection":"VisionFence camera",
+    "source_url":"https://navimow.segway.com/products/navimow-i108/","source_label":"Official Segway Navimow product page","verified_at":"2026-08-30","verification_status":"official-source-verified"
   },
   {
-    "id": "mammotion-luba2-1000",
-    "brand": "Mammotion",
-    "model": "LUBA 2 AWD 1000",
-    "category": "robot-mower",
-    "max_area_m2": 1000,
-    "max_slope_pct": 80,
-    "wire_free": true,
-    "multi_zone": true,
-    "navigation": "RTK + Vision",
-    "price_eur": null,
-    "source": "manufacturer",
-    "source_label": "manufacturer seed data — revalidation required before commercial launch",
-    "verified_at": "2026-08-30"
+    "id":"mammotion-luba-mini-2-awd-1000","brand":"Mammotion","model":"LUBA mini 2 AWD 1000","category":"robot-mower",
+    "max_area_m2":1000,"recommended_area_m2":1000,"max_slope_pct":80,"wire_free":true,"multi_zone":true,
+    "navigation":"NetRTK + Tri-camera AI Vision","obstacle_detection":"Tri-camera AI Vision",
+    "source_url":"https://de.mammotion.com/products/luba-mini-2-awd-1000-maehroboter","source_label":"Official Mammotion DE product page","verified_at":"2026-08-30","verification_status":"official-source-verified"
   },
   {
-    "id": "anthbot-genie-1000",
-    "brand": "ANTHBOT",
-    "model": "Genie 1000",
-    "category": "robot-mower",
-    "max_area_m2": 1000,
-    "max_slope_pct": 45,
-    "wire_free": true,
-    "multi_zone": true,
-    "navigation": "RTK + Vision",
-    "price_eur": null,
-    "source": "manufacturer",
-    "source_label": "manufacturer seed data — revalidation required before commercial launch",
-    "verified_at": "2026-08-30"
+    "id":"anthbot-genie-1000","brand":"ANTHBOT","model":"Genie 1000","category":"robot-mower",
+    "max_area_m2":1000,"recommended_area_m2":1000,"max_slope_pct":45,"wire_free":true,"multi_zone":true,
+    "navigation":"RTK + quad-camera AI vision","obstacle_detection":"Quad-camera AI vision",
+    "source_url":"https://official.anthbot.com/de/pages/genie","source_label":"Official ANTHBOT product page","verified_at":"2026-08-30","verification_status":"partial-official-source-verified",
+    "notes":"Slope, wire-free setup, multi-zone and vision navigation verified on official page. Model-specific 1000 m² capacity should be rechecked against a dedicated Genie 1000 specification source before commercial claims."
   }
 ]
