@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Universal Product Compatibility Record",
+  "type": "object",
+  "required": ["id", "brand", "model", "category", "source", "verified_at"],
+  "properties": {
+    "id": {"type": "string"},
+    "brand": {"type": "string"},
+    "model": {"type": "string"},
+    "category": {"type": "string"},
+    "max_area_m2": {"type": ["number", "null"]},
+    "max_slope_pct": {"type": ["number", "null"]},
+    "wire_free": {"type": ["boolean", "null"]},
+    "multi_zone": {"type": ["boolean", "null"]},
+    "navigation": {"type": ["string", "null"]},
+    "price_eur": {"type": ["number", "null"]},
+    "source": {"type": "string"},
+    "source_label": {"type": ["string", "null"]},
+    "verified_at": {"type": "string", "format": "date"}
+  },
+  "additionalProperties": true
+}
