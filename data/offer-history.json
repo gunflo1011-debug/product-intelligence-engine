@@ -1,0 +1,13 @@
+[
+  {"product_id":"mammotion-yuka-1000","merchant":"Mammotion DE","market":"DE","price":1049,"currency":"EUR","availability":"out_of_stock","observed_at":"2026-08-30","source_url":"https://de.mammotion.com/products/yuka-maehroboter"},
+  {"product_id":"navimow-i205-awd","merchant":"Segway Navimow","market":"DE","price":899,"currency":"EUR","availability":"unknown","observed_at":"2026-08-30","source_url":"https://navimow.segway.com/pages/navimow-buying-guide"},
+  {"product_id":"navimow-i208-awd","merchant":"Segway Navimow","market":"DE","price":1099,"currency":"EUR","availability":"unknown","observed_at":"2026-08-30","source_url":"https://navimow.segway.com/pages/navimow-buying-guide"},
+  {"product_id":"navimow-i208-lidar","merchant":"Segway Navimow","market":"DE","price":1199,"currency":"EUR","availability":"unknown","observed_at":"2026-08-30","source_url":"https://navimow.segway.com/pages/navimow-buying-guide"},
+  {"product_id":"navimow-i215-lidar","merchant":"Segway Navimow","market":"DE","price":1399,"currency":"EUR","availability":"unknown","observed_at":"2026-08-30","source_url":"https://navimow.segway.com/pages/navimow-buying-guide"},
+  {"product_id":"navimow-i220-lidar","merchant":"Segway Navimow","market":"DE","price":1599,"currency":"EUR","availability":"unknown","observed_at":"2026-08-30","source_url":"https://navimow.segway.com/pages/navimow-buying-guide"},
+  {"product_id":"navimow-i210-lidar-pro","merchant":"Segway Navimow","market":"DE","price":1599,"currency":"EUR","availability":"unknown","observed_at":"2026-08-30","source_url":"https://navimow.segway.com/pages/navimow-buying-guide"},
+  {"product_id":"navimow-i220-lidar-pro","merchant":"Segway Navimow","market":"DE","price":1999,"currency":"EUR","availability":"unknown","observed_at":"2026-08-30","source_url":"https://navimow.segway.com/pages/navimow-buying-guide"},
+  {"product_id":"navimow-x420","merchant":"Segway Navimow","market":"DE","price":2499,"currency":"EUR","availability":"unknown","observed_at":"2026-08-30","source_url":"https://navimow.segway.com/pages/navimow-buying-guide"},
+  {"product_id":"navimow-x430","merchant":"Segway Navimow","market":"DE","price":2799,"currency":"EUR","availability":"unknown","observed_at":"2026-08-30","source_url":"https://navimow.segway.com/pages/navimow-buying-guide"},
+  {"product_id":"navimow-x450","merchant":"Segway Navimow","market":"DE","price":3199,"currency":"EUR","availability":"unknown","observed_at":"2026-08-30","source_url":"https://navimow.segway.com/pages/navimow-buying-guide"}
+]
