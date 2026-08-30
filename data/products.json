@@ -1,0 +1,62 @@
+[
+  {
+    "id": "navimow-i105e",
+    "brand": "Segway Navimow",
+    "model": "i105E",
+    "category": "robot-mower",
+    "max_area_m2": 600,
+    "max_slope_pct": 30,
+    "wire_free": true,
+    "multi_zone": true,
+    "navigation": "RTK + Vision",
+    "price_eur": null,
+    "source": "manufacturer",
+    "source_label": "manufacturer seed data — revalidation required before commercial launch",
+    "verified_at": "2026-08-30"
+  },
+  {
+    "id": "navimow-i108e",
+    "brand": "Segway Navimow",
+    "model": "i108E",
+    "category": "robot-mower",
+    "max_area_m2": 800,
+    "max_slope_pct": 30,
+    "wire_free": true,
+    "multi_zone": true,
+    "navigation": "RTK + Vision",
+    "price_eur": null,
+    "source": "manufacturer",
+    "source_label": "manufacturer seed data — revalidation required before commercial launch",
+    "verified_at": "2026-08-30"
+  },
+  {
+    "id": "mammotion-luba2-1000",
+    "brand": "Mammotion",
+    "model": "LUBA 2 AWD 1000",
+    "category": "robot-mower",
+    "max_area_m2": 1000,
+    "max_slope_pct": 80,
+    "wire_free": true,
+    "multi_zone": true,
+    "navigation": "RTK + Vision",
+    "price_eur": null,
+    "source": "manufacturer",
+    "source_label": "manufacturer seed data — revalidation required before commercial launch",
+    "verified_at": "2026-08-30"
+  },
+  {
+    "id": "anthbot-genie-1000",
+    "brand": "ANTHBOT",
+    "model": "Genie 1000",
+    "category": "robot-mower",
+    "max_area_m2": 1000,
+    "max_slope_pct": 45,
+    "wire_free": true,
+    "multi_zone": true,
+    "navigation": "RTK + Vision",
+    "price_eur": null,
+    "source": "manufacturer",
+    "source_label": "manufacturer seed data — revalidation required before commercial launch",
+    "verified_at": "2026-08-30"
+  }
+]
