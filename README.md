@@ -1,32 +1,37 @@
-# ToolFoundry
+# Product Intelligence Engine
 
-ToolFoundry is a focused store for practical digital tools that save professionals time and reduce repetitive work.
+Universal, explainable product-compatibility engine for humans and AI assistants.
 
-## Launch product
+## Current MVP
+Vertical #1: boundary-wire-free robotic lawnmowers.
 
-**Manufacturing LPA + CAPA Manager** — an Excel-based workflow for layered process audits, findings, root-cause analysis, corrective actions, effectiveness checks, overdue escalation, and repeat-finding monitoring.
+The platform is designed to answer: **Which product actually fits this exact use case, and why?**
 
-Launch positioning: a one-time-purchase alternative for teams that need more structure than a checklist but do not need a full audit SaaS platform.
+## Core principles
+- Category-neutral core architecture
+- Hard constraints exclude incompatible products
+- Soft preferences may rank only after compatibility is established
+- Affiliate commission never influences compatibility ranking
+- Source provenance and verification dates are first-class data
+- Unknown data remains unknown; no invented values
+- Public, crawlable, machine-readable output
 
-## Business model
+## Current repository structure
+- `index.html` — interactive static compatibility finder
+- `data/products.json` — normalized seed product records
+- `product.schema.json` — initial universal product schema
+- `robots.txt` — allows standard search crawlers and OAI-SearchBot
 
-- Sell small, outcome-focused Excel tools and lightweight software.
-- Validate demand before expanding each product.
-- Prefer one-time purchases first; consider subscriptions only where ongoing value justifies them.
-- Use dedicated SEO landing pages and measured paid-search experiments for distribution.
-- Keep products independent from unrelated existing projects.
+## Next implementation milestones
+1. Expand verified mower dataset to 15–25 models.
+2. Move provenance from product-level to per-attribute evidence.
+3. Add narrow-passage, multi-zone, terrain, tree/building and navigation-risk constraints.
+4. Add reusable category schemas and deterministic compatibility rules.
+5. Add product/use-case pages, sitemap and structured data.
+6. Add privacy-light finder/outbound-click analytics.
+7. Connect approved affiliate links after program approval.
 
-## Revenue milestones
+## Revenue path
+AI/Search/direct user → compatibility result → merchant click → affiliate conversion.
 
-1. First real paid order
-2. EUR 100/month
-3. EUR 500/month
-4. EUR 1,000/month
-
-## Current priority
-
-Ship a conversion-focused storefront and product page for the LPA + CAPA Manager, then connect a compliant checkout and measure real traffic-to-purchase conversion before investing heavily in additional products.
-
-## Status
-
-Storefront foundation in progress. Checkout is intentionally not connected until the required seller/payment/legal details are available.
+Later extensions: high-value lead generation and B2B/API access to normalized product intelligence.
