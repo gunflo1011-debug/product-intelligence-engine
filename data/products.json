@@ -18,10 +18,21 @@
     "source_url":"https://de.mammotion.com/products/luba-mini-2-awd-1000-maehroboter","source_label":"Official Mammotion DE product page","verified_at":"2026-08-30","verification_status":"official-source-verified"
   },
   {
+    "id":"anthbot-genie-600","brand":"ANTHBOT","model":"Genie 600","category":"robot-mower",
+    "max_area_m2":900,"recommended_area_m2":900,"max_slope_pct":45,"wire_free":true,"multi_zone":true,
+    "max_zones":20,"navigation":"RTK + quad-camera AI vision","obstacle_detection":"Quad-camera AI vision",
+    "source_url":"https://de.anthbot.com/products/genie-mahroboter","source_label":"Official ANTHBOT DE product page","verified_at":"2026-08-30","verification_status":"official-source-verified"
+  },
+  {
     "id":"anthbot-genie-1000","brand":"ANTHBOT","model":"Genie 1000","category":"robot-mower",
-    "max_area_m2":1000,"recommended_area_m2":1000,"max_slope_pct":45,"wire_free":true,"multi_zone":true,
-    "navigation":"RTK + quad-camera AI vision","obstacle_detection":"Quad-camera AI vision",
-    "source_url":"https://official.anthbot.com/de/pages/genie","source_label":"Official ANTHBOT product page","verified_at":"2026-08-30","verification_status":"partial-official-source-verified",
-    "notes":"Slope, wire-free setup, multi-zone and vision navigation verified on official page. Model-specific 1000 m² capacity should be rechecked against a dedicated Genie 1000 specification source before commercial claims."
+    "max_area_m2":2000,"recommended_area_m2":2000,"max_slope_pct":45,"wire_free":true,"multi_zone":true,
+    "max_zones":20,"navigation":"RTK + quad-camera AI vision","obstacle_detection":"Quad-camera AI vision",
+    "source_url":"https://de.anthbot.com/products/genie-mahroboter","source_label":"Official ANTHBOT DE product page","verified_at":"2026-08-30","verification_status":"official-source-verified"
+  },
+  {
+    "id":"anthbot-genie-3000","brand":"ANTHBOT","model":"Genie 3000","category":"robot-mower",
+    "max_area_m2":3600,"recommended_area_m2":3600,"max_slope_pct":45,"wire_free":true,"multi_zone":true,
+    "max_zones":30,"navigation":"RTK + quad-camera AI vision","obstacle_detection":"Quad-camera AI vision",
+    "source_url":"https://de.anthbot.com/products/genie-mahroboter","source_label":"Official ANTHBOT DE product page","verified_at":"2026-08-30","verification_status":"official-source-verified"
   }
 ]
