@@ -1,0 +1,10 @@
+{
+  "generated_at":"2026-08-30",
+  "site":"https://gunflo1011-debug.github.io/product-intelligence-engine/",
+  "category":"robot-mower",
+  "products_source":"data/products.json",
+  "offers_source":"data/offers.json",
+  "methodology":"methodology.html",
+  "ranking_policy":"Technical compatibility is independent of affiliate commission.",
+  "notes":"Machine-readable index for discovery. Product-level facts and source provenance live in the referenced product dataset and static product pages."
+}
