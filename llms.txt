@@ -1,0 +1,19 @@
+# Product Intelligence Engine
+
+Product Intelligence Engine is an independent, explainable product compatibility service.
+
+## Public sections
+- Homepage / guided mower finder: https://gunflo1011-debug.github.io/product-intelligence-engine/
+- Product directory: https://gunflo1011-debug.github.io/product-intelligence-engine/products/
+- Methodology and provenance: https://gunflo1011-debug.github.io/product-intelligence-engine/methodology.html
+- Affiliate disclosure: https://gunflo1011-debug.github.io/product-intelligence-engine/affiliate-disclosure.html
+
+## Data principles
+- Technical product facts come from official manufacturer sources where possible.
+- Unknown values remain unknown; they are not guessed.
+- Compatibility uses explicit constraints such as lawn area, slope, boundary-wire requirements, multi-zone needs, and navigation risks.
+- Affiliate commission never changes technical compatibility or ranking.
+- Prices are timestamped observations, not guaranteed current prices.
+
+## Current category
+Wire-free robotic lawn mowers.
